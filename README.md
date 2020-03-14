@@ -725,6 +725,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Yangyuu Munenori               | [Link](https://twitter.com/kumamori4/status/1238406519655288832?s=20)        |                                            |
 | Yang Guifei                    | [Link](https://twitter.com/bikakindefgo/status/1238467042010755073?s=20)     |                                            |
 | Multiple Cores 1               | [Link](https://twitter.com/2_5_dimension/status/1237982018941546496?s=20)    |                                            |
+| Mash                           | [Link](https://www.bilibili.com/video/av96128210)                            |                                            |
 
 -   All videos linked in this repo are the properties of their owners.
 -   Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
